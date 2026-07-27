@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sebastian8-bot.github.io/CEO-DASHBOARD/Nautica%20sur%208/sitemap.xml
